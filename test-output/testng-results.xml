@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-21T21:21:11Z" name="Default suite" finished-at="2021-07-21T21:21:11Z" duration-ms="47">
+  <suite started-at="2021-07-21T21:42:23Z" name="MavenGit Practice Suite ExtentReportXmlFile" finished-at="2021-07-21T21:42:23Z" duration-ms="73">
     <groups>
     </groups>
-    <test started-at="2021-07-21T21:21:11Z" name="Default test" finished-at="2021-07-21T21:21:11Z" duration-ms="47">
+    <test started-at="2021-07-21T21:42:23Z" name="MavenGit ExtentReportXmlFile" finished-at="2021-07-21T21:42:23Z" duration-ms="73">
       <class name="com.git.test.GitTest">
-        <test-method signature="test1()[pri:0, instance:com.git.test.GitTest@1e4d3ce5]" started-at="2021-07-21T21:21:11Z" name="test1" finished-at="2021-07-21T21:21:11Z" duration-ms="11" status="PASS">
+        <test-method signature="test1()[pri:0, instance:com.git.test.GitTest@65e98b1c]" started-at="2021-07-21T21:42:23Z" name="test1" finished-at="2021-07-21T21:42:23Z" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
       </class> <!-- com.git.test.GitTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- MavenGit ExtentReportXmlFile -->
+  </suite> <!-- MavenGit Practice Suite ExtentReportXmlFile -->
 </testng-results>
