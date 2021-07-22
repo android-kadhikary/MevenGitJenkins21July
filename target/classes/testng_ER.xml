@@ -11,7 +11,7 @@
 
   <test name="MavenGit ExtentReportXmlFile">
        <classes> <!--  class from where the above parameters will be accessed  -->
-        <class name="com.git.test.GitTest"/>  
+        <class name="com.git.test.GitTest2_WithinMainTest"/>  
       <!--  <class name="com.crm.qa.testcases.AmazonLoginPageTest"/>   -->
       </classes>
   </test> <!-- Test --> 
